@@ -1,0 +1,13 @@
+.part1{
+    background-color: aqua;
+    margin: solid 5px;
+    
+}
+#dong{
+    direction: flex;
+    height: 100vh;
+    justify-content:center ;
+}
+#dong:hover{
+    scale: 200%;
+}
